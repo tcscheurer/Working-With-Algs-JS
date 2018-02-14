@@ -1,4 +1,4 @@
-// Implamentation of the linear run time counting sort alg.
+// Implementation of the linear run time counting sort alg.
 
 let CountingSort = (inArray) => {
     //here we search for the largest element so it doesn't 
